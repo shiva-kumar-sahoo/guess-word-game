@@ -6,7 +6,7 @@ The Word Guessing Game is a C++ console application where the player has to gues
 
 ## Features
 
-- Selects a random word from a list of 20 words stored in a text file.
+- Selects a random word from a list of 20 words .
 - Provides feedback on the guessed word:
   - Correct letter and position.
   - Correct letter but wrong position.
