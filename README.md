@@ -43,5 +43,6 @@ The Word Guessing Game is a C++ console application where the player has to gues
 3. **Run the Program**
 
 4. **Output**
-   ![Screenshot 2024-07-23 214832](https://github.com/user-attachments/assets/5eed359f-05e1-45ee-bf86-9069c16b7f54)
+
+     ![Screenshot 2024-07-23 214832](https://github.com/user-attachments/assets/5eed359f-05e1-45ee-bf86-9069c16b7f54)
 
